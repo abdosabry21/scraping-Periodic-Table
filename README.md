@@ -7,7 +7,7 @@
 </p>
 <p>it using the api of [pubchem](https://pubchem.ncbi.nlm.nih.gov/ptable/) to get all info about the elements
 </p>
-such as  Symbol ,AtomicNumber,Name,CPKHexColor,ElectronConfiguration,Electronegativity`and`AtomicRadius
+such as  Symbol , AtomicNumber , Name , CPKHexColor , ElectronConfiguration , Electronegativity and AtomicRadius
 
 
 
